@@ -1,0 +1,4 @@
+include ':EventLog'
+include ':clint'
+include ':app'
+rootProject.name = "CustomLint"
